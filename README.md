@@ -38,4 +38,12 @@ rm -rf /var/local/martus/MartusServer/cache
 * I updated A.21 to reflect the above. If the volunteers let me log in to their instance (I think I've documented how to do this), I could update stuff.
 
 
+https://benetech.github.io/Martus-Project/martus-server-admin.html
+
+https://benetech.github.io/Martus-Project/MartusServer.html
+
+https://benetech.github.io/Martus-Project/martus-server-install.html
+
+https://benetech.github.io/Martus-Project/martus-server-policy-guide.html
+
 
